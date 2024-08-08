@@ -1,1 +1,1 @@
-# PlantCoSalesDashboard
+![Performance Dashboard](Images/Dashboard.png)
